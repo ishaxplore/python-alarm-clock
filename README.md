@@ -49,12 +49,20 @@ Run the application:
 python alarm_clock.py
 
 📚 What I Learned
+
 Creating desktop applications using Tkinter
+
 Handling time and dates in Python
+
 Using threading for background tasks
+
 Playing audio with Pygame
+
 Working with file dialogs
+
 Organizing project files
+
+
 👩‍💻 Author
 
 Isha
